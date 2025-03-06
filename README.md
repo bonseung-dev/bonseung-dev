@@ -28,8 +28,6 @@
 ### Library
 <!--React-->
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<!--Supabase-->
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white"/>
 <br/>
 
 ### Framework
