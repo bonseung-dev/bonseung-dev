@@ -4,13 +4,14 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+#### 🙋‍♂️ 저는 프론트엔드 개발자를 꿈꾸고 있습니다.<br/>
+#### 💻 사용자 친화적인 웹 애플리케이션을 만드는 데 열정을 가지고 있습니다.<br/>
+#### 📚 현재 React, Next.js, TypeScript를 배우고 있습니다.<br/>
+#### ✨ 새로운 기술을 탐구하고 스킬을 향상시키는 데 항상 열려 있습니다.<br/>
+#### 🏆 협업 및 오픈 소스 프로젝트에 기여하는 것을 환영합니다!
   <br/>
   <br/>
   
-  ## 🧱 Tech Stack
  ## 🧱 Tech Stack
 
 ### Language
